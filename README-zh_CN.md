@@ -338,7 +338,7 @@ class User {
 
 ### 拆分不同类型文件
 
-有一天有个用户问我，是否可能修改一下最终文件名，他发现 `my_controller_name.controller.dart` 比 CLI 生成的默认文件 `my_controller_name_controller. dart` 更具有可读性，考虑到像他这样的用户，我加了个选项，可以让你选择你自己的分隔符，只需要在你的 pubsepc.yaml 里这样写
+有一天有个用户问我，是否可能修改一下最终文件名，他发现 `my_controller_name.controller.dart` 比 CLI 生成的默认文件 `my_controller_name_controller. dart` 更具有可读性，考虑到像他这样的用户，我加了个选项，可以让你选择你自己的分隔符，只需要在你的 pubspec.yaml 里这样写
 
 例子:
 
